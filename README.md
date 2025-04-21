@@ -24,12 +24,12 @@ Sleuth Kit Disk Analysis Commands
 ### Step2:
 
   ●	Verify Sleuthkit is installed.
-  ![image](https://github.com/user-attachments/assets/504edd66-9700-490f-b6c5-878d5ccba681)
-
+  ![image](https://github.com/user-attachments/assets/bf20532e-f466-4d2b-a15e-8f90a7a411ea)
+  
 ### Step3:
 
   ●	Navigate to the binary file of Sleuthkit in command prompt: 
-  ![image](https://github.com/user-attachments/assets/5e792732-51f0-4b7f-b299-cc21699104e8)
+![image](https://github.com/user-attachments/assets/acfda227-a9af-4b6e-9614-289d7f6b340c)
 
 ## PROCEDURE:
 ## ANALYSE THE FILE USING SLEUTHKIT TOOL:
